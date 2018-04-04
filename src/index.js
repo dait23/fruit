@@ -28,7 +28,7 @@ import fakeDelay from './fakeDelay'
 
 
 
-////////////// View Component 
+
 
 const Home = Loadable({
  loader: () => fakeDelay(500).then(() => import('./views/Home/')),
