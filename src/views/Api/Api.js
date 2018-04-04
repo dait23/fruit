@@ -20,13 +20,13 @@ export const No_Thumb = 'http://res.cloudinary.com/nomadic-id/image/upload/c_thu
 //https://res.cloudinary.com/nomadic-id/image/upload/c_thumb,g_face:auto,h_80,r_100,w_80,x_0,y_114/v1521659310/tony_bazx8m.jpg
 //////MAilgun
 
-export const Mailgun_Key = 'key-0059f741c2d4767776e781a8a1fd101c';
-export const Mailgun_PublicKey = 'pubkey-c1956cc2e8929fb7d21d362f4e44bba3';
+export const Mailgun_Key = 'key-xxxx-xxxx-xxx';
+export const Mailgun_PublicKey = 'pubkey-cxxxxxxxxxxxxxxx';
 
 
 ///////SendGrid
 
-export const SendGrid_Key = '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';
+export const SendGrid_Key = 'xxxx  xxxx xxxx';
 export const SendGrid_Url = 'https://api.sendgrid.com/v3/mail/send';
 
 
