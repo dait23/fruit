@@ -24,6 +24,8 @@ const allAboutQuery = gql`
         updatedAt
         bodyRaw
         reading
+        createdAt
+        updatedAt
      }
   }
 `;
@@ -40,6 +42,8 @@ const allPrivacyQuery = gql`
         updatedAt
         bodyRaw
         reading
+        createdAt
+        updatedAt
      }
   }
 `;
@@ -57,6 +61,8 @@ const allTermsQuery = gql`
         updatedAt
         bodyRaw
         reading
+        createdAt
+        updatedAt
      }
   }
 `;
@@ -73,6 +79,8 @@ const allHelpQuery = gql`
         updatedAt
         bodyRaw
         reading
+        createdAt
+        updatedAt
      }
   }
 `;
@@ -87,6 +95,7 @@ const allRelatedQuery = gql`
     reading
     imageId
     imageUrl
+    createdAt
   }
   }
 `;
