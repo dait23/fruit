@@ -1251,6 +1251,18 @@ a, a:hover {
 .sticky-stop {clear:both;}
 
 
+.single ul{
+	list-style: disc;
+}
+.single ul > li{
+
+     font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+    line-height: 1.58;
+
+}
+
 
 
 /* MEDIUM DEVICES */
