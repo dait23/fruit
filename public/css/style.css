@@ -1251,10 +1251,10 @@ a, a:hover {
 .sticky-stop {clear:both;}
 
 
-.single ul{
+.single > ul{
 	list-style: disc;
 }
-.single ul > li{
+.single > ul > li{
 
      font-weight: 400;
     font-style: normal;
