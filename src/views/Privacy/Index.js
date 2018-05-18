@@ -58,7 +58,7 @@ const Help = inject('helpStore')(
                          <Image cloudName={Cloudinary_Name} publicId={privacy.imageId}  crop="scale"  alt={privacy.title}/>
 
                         <div className="single" id="paraf">
-                        <article dangerouslySetInnerHTML={{ __html: privacy.description }}></article>
+                        <article dangerouslySetInnerHTML={{ __html: privacy.body }}></article>
                        
       
                         </div>

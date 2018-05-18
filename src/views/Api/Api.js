@@ -1,7 +1,8 @@
 
 /////Graphcool API LINK
 
-export const MainApi = 'https://api.graph.cool/simple/v1/cjeguhumv3dl701681wnjd841';
+export const MainApi = 'https://api.graph.cool/simple/v1/cjfgw5wr8024c017191idx2wf';
+//export const MainApix = 'https://api.graph.cool/simple/v1/cjeguhumv3dl701681wnjd841';
 
 /////Web API LINK
 export const MainLink = 'http://localhost:5000/';

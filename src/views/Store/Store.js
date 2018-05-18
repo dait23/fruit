@@ -18,11 +18,10 @@ const allAboutQuery = gql`
     Page(slug:"about-us") {
         id
         title
-        description
         imageId
         imageUrl
         updatedAt
-        bodyRaw
+        body
         reading
         createdAt
         updatedAt
@@ -36,11 +35,10 @@ const allPrivacyQuery = gql`
     Page(slug:"privacy") {
         id
         title
-        description
         imageId
         imageUrl
         updatedAt
-        bodyRaw
+        body
         reading
         createdAt
         updatedAt
@@ -55,11 +53,10 @@ const allTermsQuery = gql`
     Page(slug:"terms") {
         id
         title
-        description
         imageId
         imageUrl
         updatedAt
-        bodyRaw
+        body
         reading
         createdAt
         updatedAt
@@ -73,11 +70,10 @@ const allHelpQuery = gql`
     Page(slug:"help") {
         id
         title
-        description
         imageId
         imageUrl
         updatedAt
-        bodyRaw
+        body
         reading
         createdAt
         updatedAt

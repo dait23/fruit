@@ -64,7 +64,7 @@ const Helper = inject('helpStore')(
 
                          <article>
 
-                         <div dangerouslySetInnerHTML={{ __html: help.description }}></div>
+                         <div dangerouslySetInnerHTML={{ __html: help.body }}></div>
                         </article>
       
                         </div>

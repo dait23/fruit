@@ -57,7 +57,7 @@ const Help = inject('helpStore')(
 
                         <div className="single" id="paraf">
 
-                         <div dangerouslySetInnerHTML={{ __html: terms.description }}></div>
+                         <div dangerouslySetInnerHTML={{ __html: terms.body }}></div>
       
                         </div>
 
