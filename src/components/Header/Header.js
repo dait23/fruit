@@ -20,7 +20,7 @@ class Header extends Component {
             <span className="icon-bar"></span>
             <span className="icon-bar"></span>
           </button>
-           <a className="navbar-brand" href="/">
+           <a className="navbar-brand" href="https://www.nomadic.co.id">
 		  <img src="https://res.cloudinary.com/nomadic-id/image/upload/v1522308873/logo.png" alt="logo" />
 		  </a>
         </div>
